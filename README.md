@@ -160,7 +160,9 @@ See instructions. Delete this line and place images of your UML Activity diagram
 
 ## Wireframes
 
-See instructions. Delete this line and place your wireframe diagrams here, covering every new screen and every existing screen your proposal changes, for every type of user.
+[Wireframes(googledrive)](https://drive.google.com/drive/u/0/folders/1oORnK8JfN3fne00c48dqEBmLPGvd22CX)
+
+We have 4 screens, the first one being almost similar to the main homepage with the addition of a "following" tab on added to it with the intent of having a section of the page to look at your personal courses. We have also added an Instructor overview page so that you can look at the details for a given instructor and all lectures they may have, relating or unrelated to you. Additionally we have added a pop up tab that would allow you to traverse all the courses you are taking/following and allow you to edit them.
 
 ## Clickable Prototype
 
