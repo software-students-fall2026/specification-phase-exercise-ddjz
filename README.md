@@ -158,9 +158,11 @@ The Slide Machine turns what instructors say in class into the slides students s
 ## Activity Diagrams
 
 <img width="502" height="622" alt="Filter drawio" src="https://github.com/user-attachments/assets/1738ebad-775a-40b8-a51d-c80bd68eb310" />
+
 As a student, I want to filter Discover to show only lectures from professors I've tagged, so that I don't have to search through every lecture to find the ones from people I actually follow.
 
 <img width="386" height="577" alt="AddTag drawio" src="https://github.com/user-attachments/assets/db8c6c61-d118-4d5f-8eaf-a4def8eddb0a" />
+
 As a student, I want to tag a professor so that their future lectures are automatically included when I filter Discover to just the people I follow.
 
 
@@ -176,7 +178,7 @@ We have 4 screens, the first one being almost similar to the main homepage with 
 
 ## Stakeholder Demo
 
-See instructions. Delete this line and place a link to the deck The Slide Machine generated during your presentation here, after you have presented.
+[The link to the Demo](https://theslidemachine.com/d/untitled-6167e47c)
 
 ## Exit Ticket
 
