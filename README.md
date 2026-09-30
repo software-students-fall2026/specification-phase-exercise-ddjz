@@ -7,6 +7,7 @@ A little exercise to get started with the specification phase of the software de
 
 Danial: [Github](https://github.com/catw1thtea)
 Denise: [Github](https://github.com/denisekos)
+Daniyal: [Github](https://github.com/DaniyalMlk)
 Jay : [Github](https://github.com/Jayyu2005)
 Zee : [Github](https://github.com/manzim7)
 
@@ -156,7 +157,12 @@ The Slide Machine turns what instructors say in class into the slides students s
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here, each with the text of the user story it illustrates.
+<img width="502" height="622" alt="Filter drawio" src="https://github.com/user-attachments/assets/1738ebad-775a-40b8-a51d-c80bd68eb310" />
+As a student, I want to filter Discover to show only lectures from professors I've tagged, so that I don't have to search through every lecture to find the ones from people I actually follow.
+
+<img width="386" height="577" alt="AddTag drawio" src="https://github.com/user-attachments/assets/db8c6c61-d118-4d5f-8eaf-a4def8eddb0a" />
+As a student, I want to tag a professor so that their future lectures are automatically included when I filter Discover to just the people I follow.
+
 
 ## Wireframes
 
