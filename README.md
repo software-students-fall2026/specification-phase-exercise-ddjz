@@ -7,6 +7,7 @@ A little exercise to get started with the specification phase of the software de
 
 Danial: [Github](https://github.com/catw1thtea)
 Denise: [Github](https://github.com/denisekos)
+Daniyal: [Github](https://github.com/DaniyalMlk)
 Jay : [Github](https://github.com/Jayyu2005)
 Zee : [Github](https://github.com/manzim7)
 
