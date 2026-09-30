@@ -164,7 +164,7 @@ See instructions. Delete this line and place your wireframe diagrams here, cover
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+https://www.figma.com/proto/d5Nwgc2r1okL3zrIyM9rIS/Porject-1?node-id=7-2&p=f&viewport=-339%2C305%2C0.15&t=hMLNlerKtC96RkG3-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=7%3A2&page-id=0%3A1
 
 ## Stakeholder Demo
 
